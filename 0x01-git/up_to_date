@@ -1,0 +1,3 @@
+git log
+git branch branchname
+git commit -m "Your commit message here"
