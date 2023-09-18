@@ -1,1 +1,4 @@
-a new file in the root
+git init
+git clone https://github.com/username/repository.git
+git commit -m "my commit message here"
+
